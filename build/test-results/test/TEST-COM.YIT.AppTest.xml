@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="COM.YIT.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-03T10:01:37" hostname="LAB04010" time="0.027">
+  <properties/>
+  <testcase name="testAdd()" classname="COM.YIT.AppTest" time="0.027"/>
+  <system-out><![CDATA[Running test: 2+3= 5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
